@@ -29,3 +29,12 @@ Misalnya, jika:
 
 Program akan mengeluarkan output sebagai berikut:
 
+
+## Cara Menjalankan Program
+1. Clone atau unduh repositori ini.
+2. Buka proyek di IDE Anda atau kompilasi langsung dari terminal.
+3. Jalankan program melalui IDE atau gunakan perintah berikut jika menjalankan dari terminal:
+   ```bash
+   javac PulsaCalculator.java
+   java PulsaCalculator
+
